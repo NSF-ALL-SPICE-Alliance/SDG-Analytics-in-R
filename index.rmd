@@ -7,7 +7,7 @@ output: html_document
 
 
 
-<img src="`r here::here('logos/SDG_Analytics_in_R_Flyer_March_2025.png')`" />
+<img src="`r here::here('logos/SDG Analytics in R Flyer October - November 2025.png')`" />
 
 
 
