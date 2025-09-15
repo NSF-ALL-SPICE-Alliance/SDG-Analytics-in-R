@@ -2,6 +2,8 @@
 output: html_document
 ---
 
+## [Click Here to Apply!](https://webforms.chaminade.edu/dataskills_short_courses/)
+
  
 `r vembedr::embed_url("https://www.youtube.com/watch?v=aCt1k2EUdOs")`
 
