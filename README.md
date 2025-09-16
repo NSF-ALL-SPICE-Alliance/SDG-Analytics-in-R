@@ -25,11 +25,11 @@ If these hours don't work for you, set up an individual meeting by emailing conn
 
 | Week   | Module | Due Date |
 | -------- | ------- | ------- |
-| 1 | Course Introduction  | Midnight on March 30th |        
-| 1 | [Installation Guide](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/installation_guide.html)  |  Midnight on March 30th | 
-| 2    | [Intro to R](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/intro_to_R.html)  | Midnight on April 6th |
-| 2    | [Basic Viz](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/basic_viz.html)  | Midnight on April 6th |
-| 3    | [Advanced Viz](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/advanced_viz.html)  | Midnight on April 13th |
-| 3    | [Stats](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/stats.html)  | Midnight on April 13th |
-| 4    | [Machine Learning](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/machine_learning.html)  | Midnight on April 21st|
-| 5 & 6 | [Final Project](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/final_project_guide.html)  | Midnight on May 5th|
+| 1 | Course Introduction  | Midnight on October 20th |        
+| 1 | [Installation Guide](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/installation_guide.html)  |  Midnight on October 20th | 
+| 2    | [Intro to R](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/intro_to_R.html)  | Midnight on October 26th |
+| 2    | [Basic Viz](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/basic_viz.html)  | Midnight on October 26th |
+| 3    | [Advanced Viz](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/advanced_viz.html)  | Midnight on November 2nd |
+| 3    | [Stats](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/stats.html)  | Midnight on November 2nd |
+| 4    | [Machine Learning](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/machine_learning.html)  | Midnight on November 9th|
+| 5 & 6 | [Final Project](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/final_project_guide.html)  | Midnight on November 23rd |
