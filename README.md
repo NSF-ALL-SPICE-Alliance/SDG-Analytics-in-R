@@ -23,7 +23,7 @@ If these hours don't work for you, set up an individual meeting by emailing conn
 
 | Week   | Module | Due Date |
 | -------- | ------- | ------- |
-| 1 | Course Introduction  | Midnight on October 20th |        
+| 1 | Course Introduction  | Midnight on November 2nd  |        
 | 1 | [Installation Guide](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/installation_guide.html)  |  Midnight on November 2nd | 
 | 2    | [Intro to R](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/intro_to_R.html)  | Midnight on November 9th|
 | 2    | [Basic Viz](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/rmarkdowns/basic_viz.html)  | Midnight on November 9th |
